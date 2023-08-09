@@ -1,0 +1,1 @@
+-4 #!/bin/bash\necho $PATH | wc -l
